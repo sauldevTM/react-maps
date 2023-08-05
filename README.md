@@ -1,27 +1,11 @@
 # React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Maps SaulDeV+
+MapNav+ es una innovadora aplicación móvil que te brinda una experiencia de navegación fluida y confiable. Esta aplicación utiliza la última tecnología en mapas y está diseñada para ayudarte a encontrar y llegar a tu destino de manera rápida y eficiente.
 
-Currently, two official plugins are available:
+Características clave:
+Navegación en tiempo real: Con Maps SaulDeV, obtendrás indicaciones precisas paso a paso para llegar a tu destino en tiempo real. La aplicación utiliza la tecnología de posicionamiento global más precisa para asegurarse de que estés siempre en el camino correcto.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Diseño intuitivo: La interfaz de usuario de Maps SaulDeV está diseñada pensando en la facilidad de uso y la eficiencia. Su diseño intuitivo te permite acceder rápidamente a las funciones de búsqueda y navegación, lo que garantiza una experiencia de usuario fluida y sin complicaciones.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Búsqueda inteligente: Encuentra fácilmente direcciones y ubicaciones con nuestra función de búsqueda inteligente. Solo tienes que ingresar el nombre del lugar o la dirección, y Maps SaulDeV te mostrará opciones relevantes con detalles precisos.
