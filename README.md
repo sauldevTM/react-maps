@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 
-Maps SaulDeV+
-MapNav+ es una innovadora aplicación móvil que te brinda una experiencia de navegación fluida y confiable. Esta aplicación utiliza la última tecnología en mapas y está diseñada para ayudarte a encontrar y llegar a tu destino de manera rápida y eficiente.
+Maps SaulDeV
+Maps SaulDeV es una innovadora aplicación móvil que te brinda una experiencia de navegación fluida y confiable. Esta aplicación utiliza la última tecnología en mapas y está diseñada para ayudarte a encontrar y llegar a tu destino de manera rápida y eficiente.
 
 Características clave:
 Navegación en tiempo real: Con Maps SaulDeV, obtendrás indicaciones precisas paso a paso para llegar a tu destino en tiempo real. La aplicación utiliza la tecnología de posicionamiento global más precisa para asegurarse de que estés siempre en el camino correcto.
